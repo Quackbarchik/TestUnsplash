@@ -1,0 +1,5 @@
+github "Alamofire/Alamofire" "5.0.0-beta.5"
+github "realm/realm-cocoa"
+github "SnapKit/SnapKit" ~> 5.0.0
+github "SVProgressHUD/SVProgressHUD"
+github "onevcat/Kingfisher" ~> 5.0
